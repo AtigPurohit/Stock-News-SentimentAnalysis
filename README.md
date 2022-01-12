@@ -12,6 +12,6 @@ Extract -> Summarize -> Analyze
 
 Open the terminal and activate the conda environment to install the packages.
 
-pip install newspaper3k
-pip install GoogleNews
-pip install nltk
+pip install newspaper3k <br>
+pip install GoogleNews <br>
+pip install nltk <br>
